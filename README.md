@@ -1,4 +1,8 @@
-### Hi there 👋
+I am a mathematician 🧮 turned data scientist 🧑‍🔬 and board game enthusiast 🎲 from Germany 🇩🇪 living in Finland 🇫🇮.
+
+In an attempt to marry my passion for games and data science, I created the recommendation engine [Recommend.Games](https://recommend.games/#/) and write about those topics on my [blog](https://blog.recommend.games/).
+
+Your [sponsorship](https://github.com/sponsors/MarkusShepherd) 💸 contributes to the costs of running those services (hosting, domains, etc) and allow me to implement new features.
 
 <!--
 **MarkusShepherd/MarkusShepherd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
